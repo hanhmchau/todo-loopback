@@ -11,8 +11,6 @@
     "posttest": "npm run lint"
   },
   "dependencies": {
-    "node": "8.1.0",
-    "npm": "5.1.0",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
     "helmet": "^3.10.0",
